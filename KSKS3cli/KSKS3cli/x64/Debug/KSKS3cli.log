@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\LR3\KSKS3cli\KSKS3cli\MyForm.h(63,28): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3cli\KSKS3cli\MyForm.h(63,28): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3cli\KSKS3cli\MyForm.h(63,28): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3cli\KSKS3cli\MyForm.h(63,28): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3cli\KSKS3cli\MyForm.h(63,28): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3cli\KSKS3cli\MyForm.h(63,28): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3cli\KSKS3cli\MyForm.h(63,28): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  KSKS3cli.vcxproj -> C:\LR3\KSKS3cli\x64\Debug\KSKS3cli.exe

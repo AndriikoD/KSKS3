@@ -1,0 +1,29 @@
+﻿  MyForm.cpp
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u041E' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(447,32): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(226,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(229,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(232,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(235,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(238,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(241,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(248,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(248,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(253,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(455,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\LR3\KSKS3ser\KSKS3ser\MyForm.h(589,65): warning C4101: 'e': unreferenced local variable
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  KSKS3ser.vcxproj -> C:\LR3\KSKS3ser\x64\Debug\KSKS3ser.exe
